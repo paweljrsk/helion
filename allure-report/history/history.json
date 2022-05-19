@@ -9,12 +9,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7eda5bed78d04ae7",
+      "uid" : "4aca7d576d124a94",
       "status" : "passed",
       "time" : {
-        "start" : 1652970370018,
-        "stop" : 1652970372517,
-        "duration" : 2499
+        "start" : 1652971333684,
+        "stop" : 1652971335997,
+        "duration" : 2313
       }
     } ]
   },
@@ -28,32 +28,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2536624f34fe8ebb",
+      "uid" : "5c3eda2c782035f2",
       "status" : "passed",
       "time" : {
-        "start" : 1652970389652,
-        "stop" : 1652970390909,
-        "duration" : 1257
-      }
-    } ]
-  },
-  "2652ec67d80eba47a32e23fefa8de3fb" : {
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "c97566d95561dbcc",
-      "status" : "failed",
-      "statusDetails" : "Expect window to have url\n                \n                Expected: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowania\"\n                Received: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramow\"",
-      "time" : {
-        "start" : 1652970374761,
-        "stop" : 1652970389373,
-        "duration" : 14612
+        "start" : 1652971343909,
+        "stop" : 1652971344959,
+        "duration" : 1050
       }
     } ]
   },
@@ -67,16 +47,16 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2a7dc5a01e3a4c0a",
+      "uid" : "ba760fae05f9ccd2",
       "status" : "passed",
       "time" : {
-        "start" : 1652970390909,
-        "stop" : 1652970392498,
-        "duration" : 1589
+        "start" : 1652971344959,
+        "stop" : 1652971346358,
+        "duration" : 1399
       }
     } ]
   },
-  "9c5fa589b386eb80bc71e7acf50d91b3" : {
+  "2652ec67d80eba47a32e23fefa8de3fb" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -86,12 +66,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "411786d831ddd02b",
+      "uid" : "bdca6b1fdbea38f6",
       "status" : "passed",
       "time" : {
-        "start" : 1652970400306,
-        "stop" : 1652970407820,
-        "duration" : 7514
+        "start" : 1652971338216,
+        "stop" : 1652971343820,
+        "duration" : 5604
       }
     } ]
   },
@@ -105,12 +85,31 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f483023bfde04ca6",
+      "uid" : "5891085a7cd107dc",
       "status" : "passed",
       "time" : {
-        "start" : 1652970392498,
-        "stop" : 1652970394162,
-        "duration" : 1664
+        "start" : 1652971346358,
+        "stop" : 1652971348005,
+        "duration" : 1647
+      }
+    } ]
+  },
+  "9c5fa589b386eb80bc71e7acf50d91b3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c8830870f92f5793",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652971353714,
+        "stop" : 1652971360762,
+        "duration" : 7048
       }
     } ]
   },
@@ -124,32 +123,31 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c335272264c87b7f",
+      "uid" : "d1600a2f41786236",
       "status" : "passed",
       "time" : {
-        "start" : 1652970372517,
-        "stop" : 1652970374563,
-        "duration" : 2046
+        "start" : 1652971335997,
+        "stop" : 1652971338016,
+        "duration" : 2019
       }
     } ]
   },
   "b7d78bf6ca8389d34d8eede0f9c26aff" : {
     "statistic" : {
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "74b5ba0696e5f3c1",
-      "status" : "failed",
-      "statusDetails" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramow\\\"\"",
+      "uid" : "4b2e2f837f711618",
+      "status" : "passed",
       "time" : {
-        "start" : 1652970389375,
-        "stop" : 1652970389652,
-        "duration" : 277
+        "start" : 1652971343821,
+        "stop" : 1652971343909,
+        "duration" : 88
       }
     } ]
   },
@@ -163,12 +161,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4012ae0e1e514424",
+      "uid" : "4cc8047732585ba5",
       "status" : "passed",
       "time" : {
-        "start" : 1652970407820,
-        "stop" : 1652970412841,
-        "duration" : 5021
+        "start" : 1652971360762,
+        "stop" : 1652971362787,
+        "duration" : 2025
       }
     } ]
   },
@@ -182,12 +180,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "aadebcfb1a27c66",
+      "uid" : "9bdee9e6d39d83ff",
       "status" : "passed",
       "time" : {
-        "start" : 1652970395672,
-        "stop" : 1652970400306,
-        "duration" : 4634
+        "start" : 1652971349497,
+        "stop" : 1652971353713,
+        "duration" : 4216
       }
     } ]
   },
@@ -201,12 +199,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "cebf265e71e0684d",
+      "uid" : "717c741bb2efbebf",
       "status" : "passed",
       "time" : {
-        "start" : 1652970412841,
-        "stop" : 1652970418001,
-        "duration" : 5160
+        "start" : 1652971362787,
+        "stop" : 1652971367737,
+        "duration" : 4950
       }
     } ]
   },
@@ -220,12 +218,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2f84318e77b3d696",
+      "uid" : "3c4fdfe0d8c989a1",
       "status" : "passed",
       "time" : {
-        "start" : 1652970374563,
-        "stop" : 1652970374761,
-        "duration" : 198
+        "start" : 1652971338016,
+        "stop" : 1652971338216,
+        "duration" : 200
       }
     } ]
   }

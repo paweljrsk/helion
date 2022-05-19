@@ -1,51 +1,5 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "name" : "categories",
-  "children" : [ {
-    "name" : "Product defects",
-    "children" : [ {
-      "name" : "Expect window to have url\n                \n                Expected: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowania\"\n                Received: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramow\"",
-      "children" : [ {
-        "name" : "Should show all books and...",
-        "uid" : "c97566d95561dbcc",
-        "parentUid" : "857aee3c2a416e33504aa195e57f8ff1",
-        "status" : "failed",
-        "time" : {
-          "start" : 1652970374761,
-          "stop" : 1652970389373,
-          "duration" : 14612
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-101.0.4951.64" ]
-      } ],
-      "uid" : "857aee3c2a416e33504aa195e57f8ff1"
-    }, {
-      "name" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramow\\\"\"",
-      "children" : [ {
-        "name" : "Should verify correctly title and number of books",
-        "uid" : "74b5ba0696e5f3c1",
-        "parentUid" : "abcbc2205af9ccf5bca23e93191aeee5",
-        "status" : "failed",
-        "time" : {
-          "start" : 1652970389375,
-          "stop" : 1652970389652,
-          "duration" : 277
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-101.0.4951.64" ]
-      } ],
-      "uid" : "abcbc2205af9ccf5bca23e93191aeee5"
-    } ],
-    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
-  } ]
+  "children" : [ ]
 }
