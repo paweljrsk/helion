@@ -4,10 +4,10 @@
     "uid" : "a3128ee2846eec7463d4fa32dc8580cc",
     "name" : "Searchbar",
     "statistic" : {
-      "failed" : 2,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 14,
+      "passed" : 16,
       "unknown" : 0,
       "total" : 16
     }
