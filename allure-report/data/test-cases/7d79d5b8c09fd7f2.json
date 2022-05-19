@@ -1,0 +1,142 @@
+{
+  "uid" : "7d79d5b8c09fd7f2",
+  "name" : "Should clear input value",
+  "fullName" : "Searchbar.Should clear input value",
+  "historyId" : "41726037dcf32cf4e1a4a7962afb47e5",
+  "time" : {
+    "start" : 1652964221701,
+    "stop" : 1652964222999,
+    "duration" : 1298
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 8,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9e52a67636d86217",
+      "name" : "Screenshot",
+      "source" : "9e52a67636d86217.png",
+      "type" : "image/png",
+      "size" : 560847
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testClass",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should clear input value"
+  }, {
+    "name" : "package",
+    "value" : "Searchbar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "93fa10948c98c5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652964021759,
+        "stop" : 1652964023034,
+        "duration" : 1275
+      }
+    }, {
+      "uid" : "791efd1d7baa1114",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652962819560,
+        "stop" : 1652962820828,
+        "duration" : 1268
+      }
+    }, {
+      "uid" : "ce8fb5648efd9198",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652962383209,
+        "stop" : 1652962384257,
+        "duration" : 1048
+      }
+    }, {
+      "uid" : "a31ebb915b543fd5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652962316634,
+        "stop" : 1652962317901,
+        "duration" : 1267
+      }
+    }, {
+      "uid" : "f5b949d7821e6140",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652962050075,
+        "stop" : 1652962051124,
+        "duration" : 1049
+      }
+    }, {
+      "uid" : "21a738b55f21be8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652961561002,
+        "stop" : 1652961562048,
+        "duration" : 1046
+      }
+    }, {
+      "uid" : "b49819f924e81cc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652960639736,
+        "stop" : 1652960640783,
+        "duration" : 1047
+      }
+    }, {
+      "uid" : "9db6e910699eb614",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652959692321,
+        "stop" : 1652959693371,
+        "duration" : 1050
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d79d5b8c09fd7f2.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

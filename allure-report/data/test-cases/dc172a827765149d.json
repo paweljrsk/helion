@@ -1,0 +1,135 @@
+{
+  "uid" : "dc172a827765149d",
+  "name" : "Should show all books and...",
+  "fullName" : "Searchbar.Should show all books and...",
+  "historyId" : "2652ec67d80eba47a32e23fefa8de3fb",
+  "time" : {
+    "start" : 1652964206993,
+    "stop" : 1652964221440,
+    "duration" : 14447
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expect window to have url\n                \n                Expected: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowania\"\n                Received: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowani\"",
+  "statusTrace" : "Error: Expect window to have url\n                \n                Expected: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowania\"\n                Received: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowani\"\n                    at /home/pj/Documents/Automation-Helion/test/specs/e2e/search-bar.spec.ts:30:31\n                    at Generator.next (<anonymous>)\n                    at fulfilled (/home/pj/Documents/Automation-Helion/test/specs/e2e/search-bar.spec.ts:5:58)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 8,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testClass",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should show all books and..."
+  }, {
+    "name" : "package",
+    "value" : "Searchbar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1d91302f35b9445d",
+      "status" : "failed",
+      "statusDetails" : "Expect window to have url\n                \n                Expected: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowania\"\n                Received: \"https://helion.pl/search?szukaj=Testowanie%2520oprog\"",
+      "time" : {
+        "start" : 1652964006406,
+        "stop" : 1652964021486,
+        "duration" : 15080
+      }
+    }, {
+      "uid" : "20f900aa7b687d27",
+      "status" : "failed",
+      "statusDetails" : "Expect window to have url\n                \n                Expected: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowania\"\n                Received: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowan\"",
+      "time" : {
+        "start" : 1652962804795,
+        "stop" : 1652962819301,
+        "duration" : 14506
+      }
+    }, {
+      "uid" : "e7457f9b1945b844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652962377720,
+        "stop" : 1652962383135,
+        "duration" : 5415
+      }
+    }, {
+      "uid" : "81777453e752d447",
+      "status" : "failed",
+      "statusDetails" : "Expect window to have url\n                \n                Expected: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowania\"\n                Received: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowani\"",
+      "time" : {
+        "start" : 1652962301678,
+        "stop" : 1652962316372,
+        "duration" : 14694
+      }
+    }, {
+      "uid" : "33df944cfac7ed09",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652962044579,
+        "stop" : 1652962049979,
+        "duration" : 5400
+      }
+    }, {
+      "uid" : "41c601997ff086f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652961554957,
+        "stop" : 1652961560896,
+        "duration" : 5939
+      }
+    }, {
+      "uid" : "a3bead85ae6751ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652960634232,
+        "stop" : 1652960639643,
+        "duration" : 5411
+      }
+    }, {
+      "uid" : "3b1dcf144283c542",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652959686898,
+        "stop" : 1652959692251,
+        "duration" : 5353
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "dc172a827765149d.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

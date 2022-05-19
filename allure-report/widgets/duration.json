@@ -1,120 +1,240 @@
 [ {
-  "uid" : "cab38c8e072d33c2",
-  "name" : "Should click checkbox and delete products",
-  "time" : {
-    "start" : 1652959710939,
-    "stop" : 1652959715966,
-    "duration" : 5027
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "859aab9e74676118",
+  "uid" : "9e5b202498511a18",
   "name" : "Should open helion home page and verify url and visible searchbar",
   "time" : {
-    "start" : 1652959681823,
-    "stop" : 1652959684688,
-    "duration" : 2865
+    "start" : 1652964201944,
+    "stop" : 1652964204684,
+    "duration" : 2740
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "602d6c59d9869648",
-  "name" : "Should type incorrect book name and verify alert",
-  "time" : {
-    "start" : 1652959693372,
-    "stop" : 1652959694724,
-    "duration" : 1352
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d2c62186d3a7f87e",
-  "name" : "Should show all books and...",
-  "time" : {
-    "start" : 1652959686898,
-    "stop" : 1652959692251,
-    "duration" : 5353
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "795fe385e64df0cb",
-  "name" : "Should click on first book",
-  "time" : {
-    "start" : 1652959701888,
-    "stop" : 1652959708876,
-    "duration" : 6988
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e8602bebf366fd49",
-  "name" : "Should type input search and click search icon",
-  "time" : {
-    "start" : 1652959697634,
-    "stop" : 1652959701888,
-    "duration" : 4254
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9b5e2d007e8c0799",
-  "name" : "Should click search icon and verify url",
-  "time" : {
-    "start" : 1652959684689,
-    "stop" : 1652959686677,
-    "duration" : 1988
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6e2884ef2ca0a068",
+  "uid" : "7019d7673fd54c1b",
   "name" : "Should clear input and verify is it null",
   "time" : {
-    "start" : 1652959694724,
-    "stop" : 1652959696354,
-    "duration" : 1630
+    "start" : 1652964224338,
+    "stop" : 1652964226083,
+    "duration" : 1745
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "eb89cbaf94a7a558",
-  "name" : "Should verify correctly title and number of books",
+  "uid" : "aa8bbd02cd21436a",
+  "name" : "Should click checkbox and delete products",
   "time" : {
-    "start" : 1652959692252,
-    "stop" : 1652959692321,
-    "duration" : 69
+    "start" : 1652962433607,
+    "stop" : 1652962438736,
+    "duration" : 5129
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "f1e0c5214a707b4",
-  "name" : "Should click on add to cart button",
-  "time" : {
-    "start" : 1652959708877,
-    "stop" : 1652959710939,
-    "duration" : 2062
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b6b62df579c24a1d",
-  "name" : "Should clear input value",
-  "time" : {
-    "start" : 1652959692321,
-    "stop" : 1652959693371,
-    "duration" : 1050
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "95941ddb48be0ad2",
+  "uid" : "3d606f9e52cfbfbe",
   "name" : "Should type search value and verify popup visibled",
   "time" : {
-    "start" : 1652959686677,
-    "stop" : 1652959686898,
-    "duration" : 221
+    "start" : 1652962416142,
+    "stop" : 1652962416334,
+    "duration" : 192
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2d42ecbe6af5ecd",
+  "name" : "Should type search value and verify popup visibled",
+  "time" : {
+    "start" : 1652964206797,
+    "stop" : 1652964206993,
+    "duration" : 196
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ebc373d101117aa",
+  "name" : "Should clear input and verify is it null",
+  "time" : {
+    "start" : 1652962422198,
+    "stop" : 1652962424149,
+    "duration" : 1951
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b223cfd2af28f8b8",
+  "name" : "Should type input search and click search icon",
+  "time" : {
+    "start" : 1652962425839,
+    "stop" : 1652962429173,
+    "duration" : 3334
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "601b1870b199ca9e",
+  "name" : "Should type input search and click search icon",
+  "time" : {
+    "start" : 1652964227573,
+    "stop" : 1652964232117,
+    "duration" : 4544
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e97ce8ce413d5ab9",
+  "name" : "Should click on add to cart button",
+  "time" : {
+    "start" : 1652964237463,
+    "stop" : 1652964239717,
+    "duration" : 2254
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff82f45228136a19",
+  "name" : "Should click on first book",
+  "time" : {
+    "start" : 1652964232117,
+    "stop" : 1652964237463,
+    "duration" : 5346
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b373666fc5e6958",
+  "name" : "Should type incorrect book name and verify alert",
+  "time" : {
+    "start" : 1652962421503,
+    "stop" : 1652962422198,
+    "duration" : 695
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e22d908ec36477d",
+  "name" : "Should verify correctly title and number of books",
+  "time" : {
+    "start" : 1652964221441,
+    "stop" : 1652964221701,
+    "duration" : 260
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9280d1f2d40e1da",
+  "name" : "Should click on first book",
+  "time" : {
+    "start" : 1652962429173,
+    "stop" : 1652962431448,
+    "duration" : 2275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79b0954b8e19c642",
+  "name" : "Should click search icon and verify url",
+  "time" : {
+    "start" : 1652962414170,
+    "stop" : 1652962416142,
+    "duration" : 1972
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80600b5de6780905",
+  "name" : "Should open helion home page and verify url and visible searchbar",
+  "time" : {
+    "start" : 1652962411518,
+    "stop" : 1652962414170,
+    "duration" : 2652
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc172a827765149d",
+  "name" : "Should show all books and...",
+  "time" : {
+    "start" : 1652964206993,
+    "stop" : 1652964221440,
+    "duration" : 14447
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "111c80b0c002e398",
+  "name" : "Should click on add to cart button",
+  "time" : {
+    "start" : 1652962431448,
+    "stop" : 1652962433607,
+    "duration" : 2159
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bac5c0791b3dc2b7",
+  "name" : "Should verify correctly title and number of books",
+  "time" : {
+    "start" : 1652962420452,
+    "stop" : 1652962420489,
+    "duration" : 37
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f8944f1ef62263f",
+  "name" : "Should show all books and...",
+  "time" : {
+    "start" : 1652962416334,
+    "stop" : 1652962420452,
+    "duration" : 4118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "842fd6377cafc1b6",
+  "name" : "Should click checkbox and delete products",
+  "time" : {
+    "start" : 1652964239717,
+    "stop" : 1652964244880,
+    "duration" : 5163
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d79d5b8c09fd7f2",
+  "name" : "Should clear input value",
+  "time" : {
+    "start" : 1652964221701,
+    "stop" : 1652964222999,
+    "duration" : 1298
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45d92545ffaaa751",
+  "name" : "Should click search icon and verify url",
+  "time" : {
+    "start" : 1652964204684,
+    "stop" : 1652964206797,
+    "duration" : 2113
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b581d82da757ec0",
+  "name" : "Should clear input value",
+  "time" : {
+    "start" : 1652962420489,
+    "stop" : 1652962421503,
+    "duration" : 1014
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92743ad36bd94aa2",
+  "name" : "Should type incorrect book name and verify alert",
+  "time" : {
+    "start" : 1652964223000,
+    "stop" : 1652964224338,
+    "duration" : 1338
   },
   "status" : "passed",
   "severity" : "normal"

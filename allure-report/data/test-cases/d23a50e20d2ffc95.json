@@ -1,0 +1,80 @@
+{
+  "uid" : "d23a50e20d2ffc95",
+  "name" : "Should verify correctly title and number of books",
+  "fullName" : "Searchbar.Should verify correctly title and number of books",
+  "historyId" : "b7d78bf6ca8389d34d8eede0f9c26aff",
+  "time" : {
+    "start" : 1652962819302,
+    "stop" : 1652962819560,
+    "duration" : 258
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramowan\\\"\"",
+  "statusTrace" : "Error: expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramowan\\\"\"\n                    at /home/pj/Documents/Automation-Helion/test/specs/e2e/search-bar.spec.ts:37:29\n                    at Generator.next (<anonymous>)\n                    at fulfilled (/home/pj/Documents/Automation-Helion/test/specs/e2e/search-bar.spec.ts:5:58)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramowan\\\"\"",
+    "statusTrace" : "Error: expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramowan\\\"\"\n                    at /home/pj/Documents/Automation-Helion/test/specs/e2e/search-bar.spec.ts:37:29\n                    at Generator.next (<anonymous>)\n                    at fulfilled (/home/pj/Documents/Automation-Helion/test/specs/e2e/search-bar.spec.ts:5:58)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bfd64b50412b6142",
+      "name" : "Screenshot",
+      "source" : "bfd64b50412b6142.png",
+      "type" : "image/png",
+      "size" : 633367
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testClass",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify correctly title and number of books"
+  }, {
+    "name" : "package",
+    "value" : "Searchbar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d23a50e20d2ffc95.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
