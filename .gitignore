@@ -1,3 +1,4 @@
 /allure-results/
 /allure-results/
-/allure-reports/data/test-cases/
+/allure-reports/data/test-cases/*.csv
+/allure-reports/data/test-cases/*.json
