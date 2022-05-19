@@ -1,6 +1,17 @@
 {
-  "total" : 1,
+  "total" : 2,
   "items" : [ {
+    "uid" : "a3128ee2846eec7463d4fa32dc8580cc",
+    "name" : "Searchbar",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
     "uid" : "943fa347e84523898c11a7a1dd467cf7",
     "name" : "E2E - Products",
     "statistic" : {
