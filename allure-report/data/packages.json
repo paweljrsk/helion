@@ -1,0 +1,217 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Searchbar",
+    "children" : [ {
+      "name" : "Should open helion home page and verify url and visible searchbar",
+      "uid" : "859aab9e74676118",
+      "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652959681823,
+        "stop" : 1652959684688,
+        "duration" : 2865
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Should click search icon and verify url",
+      "uid" : "9b5e2d007e8c0799",
+      "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652959684689,
+        "stop" : 1652959686677,
+        "duration" : 1988
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Should type search value and verify popup visibled",
+      "uid" : "95941ddb48be0ad2",
+      "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652959686677,
+        "stop" : 1652959686898,
+        "duration" : 221
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Should show all books and...",
+      "uid" : "d2c62186d3a7f87e",
+      "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652959686898,
+        "stop" : 1652959692251,
+        "duration" : 5353
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Should verify correctly title and number of books",
+      "uid" : "eb89cbaf94a7a558",
+      "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652959692252,
+        "stop" : 1652959692321,
+        "duration" : 69
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Should clear input value",
+      "uid" : "b6b62df579c24a1d",
+      "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652959692321,
+        "stop" : 1652959693371,
+        "duration" : 1050
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Should type incorrect book name and verify alert",
+      "uid" : "602d6c59d9869648",
+      "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652959693372,
+        "stop" : 1652959694724,
+        "duration" : 1352
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Should clear input and verify is it null",
+      "uid" : "6e2884ef2ca0a068",
+      "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652959694724,
+        "stop" : 1652959696354,
+        "duration" : 1630
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    } ],
+    "uid" : "28df5e45636167d920fc65ffdf0b92c1"
+  }, {
+    "name" : "E2E - Products",
+    "children" : [ {
+      "name" : "Should type input search and click search icon",
+      "uid" : "e8602bebf366fd49",
+      "parentUid" : "24db069e698639c352f051e2b9fb91e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652959697634,
+        "stop" : 1652959701888,
+        "duration" : 4254
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Should click on first book",
+      "uid" : "795fe385e64df0cb",
+      "parentUid" : "24db069e698639c352f051e2b9fb91e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652959701888,
+        "stop" : 1652959708876,
+        "duration" : 6988
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Should click on add to cart button",
+      "uid" : "f1e0c5214a707b4",
+      "parentUid" : "24db069e698639c352f051e2b9fb91e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652959708877,
+        "stop" : 1652959710939,
+        "duration" : 2062
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "Should click checkbox and delete products",
+      "uid" : "cab38c8e072d33c2",
+      "parentUid" : "24db069e698639c352f051e2b9fb91e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652959710939,
+        "stop" : 1652959715966,
+        "duration" : 5027
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    } ],
+    "uid" : "24db069e698639c352f051e2b9fb91e4"
+  } ]
+}

@@ -1,0 +1,121 @@
+[ {
+  "uid" : "cab38c8e072d33c2",
+  "name" : "Should click checkbox and delete products",
+  "time" : {
+    "start" : 1652959710939,
+    "stop" : 1652959715966,
+    "duration" : 5027
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "859aab9e74676118",
+  "name" : "Should open helion home page and verify url and visible searchbar",
+  "time" : {
+    "start" : 1652959681823,
+    "stop" : 1652959684688,
+    "duration" : 2865
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "602d6c59d9869648",
+  "name" : "Should type incorrect book name and verify alert",
+  "time" : {
+    "start" : 1652959693372,
+    "stop" : 1652959694724,
+    "duration" : 1352
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d2c62186d3a7f87e",
+  "name" : "Should show all books and...",
+  "time" : {
+    "start" : 1652959686898,
+    "stop" : 1652959692251,
+    "duration" : 5353
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "795fe385e64df0cb",
+  "name" : "Should click on first book",
+  "time" : {
+    "start" : 1652959701888,
+    "stop" : 1652959708876,
+    "duration" : 6988
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8602bebf366fd49",
+  "name" : "Should type input search and click search icon",
+  "time" : {
+    "start" : 1652959697634,
+    "stop" : 1652959701888,
+    "duration" : 4254
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b5e2d007e8c0799",
+  "name" : "Should click search icon and verify url",
+  "time" : {
+    "start" : 1652959684689,
+    "stop" : 1652959686677,
+    "duration" : 1988
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e2884ef2ca0a068",
+  "name" : "Should clear input and verify is it null",
+  "time" : {
+    "start" : 1652959694724,
+    "stop" : 1652959696354,
+    "duration" : 1630
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb89cbaf94a7a558",
+  "name" : "Should verify correctly title and number of books",
+  "time" : {
+    "start" : 1652959692252,
+    "stop" : 1652959692321,
+    "duration" : 69
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f1e0c5214a707b4",
+  "name" : "Should click on add to cart button",
+  "time" : {
+    "start" : 1652959708877,
+    "stop" : 1652959710939,
+    "duration" : 2062
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6b62df579c24a1d",
+  "name" : "Should clear input value",
+  "time" : {
+    "start" : 1652959692321,
+    "stop" : 1652959693371,
+    "duration" : 1050
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95941ddb48be0ad2",
+  "name" : "Should type search value and verify popup visibled",
+  "time" : {
+    "start" : 1652959686677,
+    "stop" : 1652959686898,
+    "duration" : 221
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
