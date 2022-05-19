@@ -1,0 +1,60 @@
+{
+  "uid" : "122bb67fc8bd396d",
+  "name" : "Should type search value and verify popup visibled",
+  "fullName" : "Searchbar.Should type search value and verify popup visibled",
+  "historyId" : "bd74b242d9743c746b1c8b0b94668f",
+  "time" : {
+    "start" : 1652960634039,
+    "stop" : 1652960634232,
+    "duration" : 193
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testClass",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should type search value and verify popup visibled"
+  }, {
+    "name" : "package",
+    "value" : "Searchbar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "122bb67fc8bd396d.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

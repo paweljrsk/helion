@@ -1,0 +1,103 @@
+{
+  "uid" : "8c5b4f1151f3a227",
+  "name" : "Should show all books and...",
+  "fullName" : "Searchbar.Should show all books and...",
+  "historyId" : "2652ec67d80eba47a32e23fefa8de3fb",
+  "time" : {
+    "start" : 1652962377720,
+    "stop" : 1652962383135,
+    "duration" : 5415
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testClass",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should show all books and..."
+  }, {
+    "name" : "package",
+    "value" : "Searchbar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2347603f4da4a983",
+      "status" : "failed",
+      "statusDetails" : "Expect window to have url\n                \n                Expected: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowania\"\n                Received: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowani\"",
+      "time" : {
+        "start" : 1652962301678,
+        "stop" : 1652962316372,
+        "duration" : 14694
+      }
+    }, {
+      "uid" : "b3c2a95881b1b06c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652962044579,
+        "stop" : 1652962049979,
+        "duration" : 5400
+      }
+    }, {
+      "uid" : "8f4cbb9ddb5121fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652961554957,
+        "stop" : 1652961560896,
+        "duration" : 5939
+      }
+    }, {
+      "uid" : "e0bb2535cd4adec9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652960634232,
+        "stop" : 1652960639643,
+        "duration" : 5411
+      }
+    }, {
+      "uid" : "3c1ba8651792230c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652959686898,
+        "stop" : 1652959692251,
+        "duration" : 5353
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c5b4f1151f3a227.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

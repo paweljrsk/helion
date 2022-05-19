@@ -1,0 +1,103 @@
+{
+  "uid" : "b9434c33b34f30f1",
+  "name" : "Should verify correctly title and number of books",
+  "fullName" : "Searchbar.Should verify correctly title and number of books",
+  "historyId" : "b7d78bf6ca8389d34d8eede0f9c26aff",
+  "time" : {
+    "start" : 1652962383135,
+    "stop" : 1652962383209,
+    "duration" : 74
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testClass",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify correctly title and number of books"
+  }, {
+    "name" : "package",
+    "value" : "Searchbar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "738a543c14d41eda",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramowani\\\"\"",
+      "time" : {
+        "start" : 1652962316373,
+        "stop" : 1652962316634,
+        "duration" : 261
+      }
+    }, {
+      "uid" : "2fc7cedb9c0ddadf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652962049979,
+        "stop" : 1652962050075,
+        "duration" : 96
+      }
+    }, {
+      "uid" : "c9ce44a15074231f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652961560897,
+        "stop" : 1652961561001,
+        "duration" : 104
+      }
+    }, {
+      "uid" : "6c439a9cb3198370",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652960639643,
+        "stop" : 1652960639736,
+        "duration" : 93
+      }
+    }, {
+      "uid" : "2431d88a07204e5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652959692252,
+        "stop" : 1652959692321,
+        "duration" : 69
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b9434c33b34f30f1.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

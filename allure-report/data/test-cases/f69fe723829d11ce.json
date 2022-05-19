@@ -1,0 +1,62 @@
+{
+  "uid" : "f69fe723829d11ce",
+  "name" : "Should open helion home page and verify url and visible searchbar",
+  "fullName" : "Searchbar.Should open helion home page and verify url and visible searchbar",
+  "historyId" : "80555fe610c863fe606412310d7d52d4",
+  "time" : {
+    "start" : 1652962411518,
+    "stop" : 1652962414170,
+    "duration" : 2652
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testClass",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should open helion home page and verify url and visible searchbar"
+  }, {
+    "name" : "package",
+    "value" : "Searchbar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome Headless-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f69fe723829d11ce.json",
+  "parameterValues" : [ "Chrome Headless-101.0.4951.64" ]
+}
