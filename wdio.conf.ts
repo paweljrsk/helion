@@ -1,6 +1,6 @@
 import type { Options } from '@wdio/types'
 
-// const allure = require('allure-commandline')
+const allure = require('allure-commandline')
 
 export const config: Options.Testrunner = {
     //
