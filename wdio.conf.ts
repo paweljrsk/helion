@@ -98,7 +98,7 @@ export const config: Options.Testrunner = {
         //
         browserName: 'chrome',
         "goog:chromeOptions": {
-            args: ['--headless', '--window-size=1920,1080','--no-sandbox', '--disable-gpu', '--disable-dev-shm-usage']
+            args: ['--window-size=1920,1080','--no-sandbox', '--disable-gpu', '--disable-dev-shm-usage']
         },
         acceptInsecureCerts: true
         // If outputDir is provided WebdriverIO can capture driver session logs
