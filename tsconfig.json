@@ -6,7 +6,7 @@
             "@wdio/mocha-framework",
             "expect-webdriverio"
         ],
-        "target": "ES6",
+        "target": "ES5",
         "allowJs": true,
     },
     "include": [
