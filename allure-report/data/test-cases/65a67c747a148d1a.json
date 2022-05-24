@@ -1,0 +1,70 @@
+{
+  "uid" : "65a67c747a148d1a",
+  "name" : "Should clear input and verify is it null",
+  "fullName" : "Searchbar.Should clear input and verify is it null",
+  "historyId" : "7a69f814cea13ce55bebe57e8abb97b6",
+  "time" : {
+    "start" : 1653403546052,
+    "stop" : 1653403547873,
+    "duration" : 1821
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testClass",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should clear input and verify is it null"
+  }, {
+    "name" : "package",
+    "value" : "Searchbar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6195fe542212c19c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653403241418,
+        "stop" : 1653403243142,
+        "duration" : 1724
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65a67c747a148d1a.json",
+  "parameterValues" : [ "Chrome-101.0.4951.64" ]
+}

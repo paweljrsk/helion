@@ -7,7 +7,7 @@
       "name" : "Expect window to have url\n                \n                Expected: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowania\"\n                Received: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowani\"",
       "children" : [ {
         "name" : "Should show all books and...",
-        "uid" : "631ae4633ecdb2c8",
+        "uid" : "a1e56e54624825d2",
         "parentUid" : "e0bc0256971aa9dee705009fa7e1d93d",
         "status" : "failed",
         "time" : {
@@ -28,7 +28,7 @@
       "name" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramowani\\\"\"",
       "children" : [ {
         "name" : "Should verify correctly title and number of books",
-        "uid" : "d510d18ec502fbbe",
+        "uid" : "4880a0479f4678f4",
         "parentUid" : "ed18a82a5bb284c171d846d6e356a296",
         "status" : "failed",
         "time" : {
@@ -45,6 +45,48 @@
         "parameters" : [ "chrome-101.0.4951.64" ]
       } ],
       "uid" : "ed18a82a5bb284c171d846d6e356a296"
+    }, {
+      "name" : "Expect window to have url\n                \n                Expected: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowania\"\n                Received: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowa\"",
+      "children" : [ {
+        "name" : "Should show all books and...",
+        "uid" : "4d8341182e432807",
+        "parentUid" : "9c40081f301d690b1ca7656b89ce2fae",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653403530489,
+          "stop" : 1653403543337,
+          "duration" : 12848
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : true,
+        "parameters" : [ "Chrome-101.0.4951.64" ]
+      } ],
+      "uid" : "9c40081f301d690b1ca7656b89ce2fae"
+    }, {
+      "name" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramowa\\\"\"",
+      "children" : [ {
+        "name" : "Should verify correctly title and number of books",
+        "uid" : "49d86a7ea776a0b1",
+        "parentUid" : "11dae11a351f33c1f31c7db04ef5a9a9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1653403543338,
+          "stop" : 1653403543455,
+          "duration" : 117
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : true,
+        "parameters" : [ "Chrome-101.0.4951.64" ]
+      } ],
+      "uid" : "11dae11a351f33c1f31c7db04ef5a9a9"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
   } ]

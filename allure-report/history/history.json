@@ -1,4 +1,24 @@
 {
+  "910ce6d40a2795996e7587d5a71fcf04" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "49d86a7ea776a0b1",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramowa\\\"\"",
+      "time" : {
+        "start" : 1653403543338,
+        "stop" : 1653403543455,
+        "duration" : 117
+      }
+    } ]
+  },
   "7a69f814cea13ce55bebe57e8abb97b6" : {
     "statistic" : {
       "failed" : 0,
@@ -9,31 +29,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7f1650ecff8cc592",
+      "uid" : "65a67c747a148d1a",
       "status" : "passed",
       "time" : {
-        "start" : 1653403241418,
-        "stop" : 1653403243142,
-        "duration" : 1724
-      }
-    } ]
-  },
-  "910ce6d40a2795996e7587d5a71fcf04" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "70079372738c4404",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653403238889,
-        "stop" : 1653403239006,
-        "duration" : 117
+        "start" : 1653403546052,
+        "stop" : 1653403547873,
+        "duration" : 1821
       }
     } ]
   },
@@ -47,7 +48,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "51840d898a2b319",
+      "uid" : "2eb51bb4edf388fd",
       "status" : "passed",
       "time" : {
         "start" : 1653395932705,
@@ -66,31 +67,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "846f1c50ccae100f",
+      "uid" : "fa3b115378906e09",
       "status" : "passed",
       "time" : {
-        "start" : 1653403232351,
-        "stop" : 1653403234365,
-        "duration" : 2014
-      }
-    } ]
-  },
-  "2a34ccffc5d95828c9d7b27db287a450" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "7ad2b011b6c80c78",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653395955649,
-        "stop" : 1653395957383,
-        "duration" : 1734
+        "start" : 1653403528231,
+        "stop" : 1653403530170,
+        "duration" : 1939
       }
     } ]
   },
@@ -104,13 +86,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "631ae4633ecdb2c8",
+      "uid" : "a1e56e54624825d2",
       "status" : "failed",
       "statusDetails" : "Expect window to have url\n                \n                Expected: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowania\"\n                Received: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowani\"",
       "time" : {
         "start" : 1653395938580,
         "stop" : 1653395952817,
         "duration" : 14237
+      }
+    } ]
+  },
+  "2a34ccffc5d95828c9d7b27db287a450" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "642e6a81eadd3259",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653395955649,
+        "stop" : 1653395957383,
+        "duration" : 1734
       }
     } ]
   },
@@ -124,7 +125,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "203574dfab601e5e",
+      "uid" : "dd89f6ab8a49fc5e",
       "status" : "passed",
       "time" : {
         "start" : 1653395966606,
@@ -143,12 +144,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4d647f3ca90bd189",
+      "uid" : "af4030a71b41571e",
       "status" : "passed",
       "time" : {
-        "start" : 1653403253046,
-        "stop" : 1653403255155,
-        "duration" : 2109
+        "start" : 1653403558562,
+        "stop" : 1653403560798,
+        "duration" : 2236
       }
     } ]
   },
@@ -162,7 +163,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e988efcef9c0ff77",
+      "uid" : "890a6dba1ba350fd",
       "status" : "passed",
       "time" : {
         "start" : 1653395936359,
@@ -181,7 +182,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d510d18ec502fbbe",
+      "uid" : "4880a0479f4678f4",
       "status" : "failed",
       "statusDetails" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramowani\\\"\"",
       "time" : {
@@ -201,7 +202,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5af84cb692302c58",
+      "uid" : "d830410a1552b97b",
       "status" : "passed",
       "time" : {
         "start" : 1653395962385,
@@ -220,7 +221,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "9f32b19c4d2fc7c8",
+      "uid" : "fc89278853b63b56",
       "status" : "passed",
       "time" : {
         "start" : 1653395972671,
@@ -239,7 +240,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ed1826baac6b80d3",
+      "uid" : "f9c682c7f2fe5263",
       "status" : "passed",
       "time" : {
         "start" : 1653395938283,
@@ -258,12 +259,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d84818b0fe3caec",
+      "uid" : "61cdf8ae2acc1b24",
       "status" : "passed",
       "time" : {
-        "start" : 1653403245193,
-        "stop" : 1653403249271,
-        "duration" : 4078
+        "start" : 1653403549978,
+        "stop" : 1653403554370,
+        "duration" : 4392
       }
     } ]
   },
@@ -277,12 +278,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "501f15705a8d0cc6",
+      "uid" : "7779c58ae045d4a6",
       "status" : "passed",
       "time" : {
-        "start" : 1653403234366,
-        "stop" : 1653403234728,
-        "duration" : 362
+        "start" : 1653403530171,
+        "stop" : 1653403530489,
+        "duration" : 318
       }
     } ]
   },
@@ -296,50 +297,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "20148919e6de150c",
+      "uid" : "b08d619db25e80b3",
       "status" : "passed",
       "time" : {
-        "start" : 1653403240028,
-        "stop" : 1653403241418,
-        "duration" : 1390
-      }
-    } ]
-  },
-  "41726037dcf32cf4e1a4a7962afb47e5" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "35229fac39fb931f",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653395953752,
-        "stop" : 1653395955649,
-        "duration" : 1897
-      }
-    } ]
-  },
-  "198ae95087691603978885e60edb1c51" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "1224b4858e57edbb",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653403230065,
-        "stop" : 1653403232350,
-        "duration" : 2285
+        "start" : 1653403544501,
+        "stop" : 1653403546051,
+        "duration" : 1550
       }
     } ]
   },
@@ -353,12 +316,70 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c9726ea0174bab05",
+      "uid" : "f226fcbb90737116",
       "status" : "passed",
       "time" : {
-        "start" : 1653403249271,
-        "stop" : 1653403253046,
-        "duration" : 3775
+        "start" : 1653403554370,
+        "stop" : 1653403558562,
+        "duration" : 4192
+      }
+    } ]
+  },
+  "198ae95087691603978885e60edb1c51" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9e029f3548b1c2c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653403525957,
+        "stop" : 1653403528230,
+        "duration" : 2273
+      }
+    } ]
+  },
+  "41726037dcf32cf4e1a4a7962afb47e5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "304c52d7ce4f730a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653395953752,
+        "stop" : 1653395955649,
+        "duration" : 1897
+      }
+    } ]
+  },
+  "b87fd648156dfc038b17ce7be7ea8885" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4d8341182e432807",
+      "status" : "failed",
+      "statusDetails" : "Expect window to have url\n                \n                Expected: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowania\"\n                Received: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowa\"",
+      "time" : {
+        "start" : 1653403530489,
+        "stop" : 1653403543337,
+        "duration" : 12848
       }
     } ]
   },
@@ -372,31 +393,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1f87dda283c46d97",
+      "uid" : "47ac8be3caeafc44",
       "status" : "passed",
       "time" : {
         "start" : 1653395957383,
         "stop" : 1653395959182,
         "duration" : 1799
-      }
-    } ]
-  },
-  "b87fd648156dfc038b17ce7be7ea8885" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "d0fd9db1b4c0c887",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653403234728,
-        "stop" : 1653403238888,
-        "duration" : 4160
       }
     } ]
   },
@@ -410,7 +412,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "3fc9f315e33dd40a",
+      "uid" : "b1a0ac7069ba76d7",
       "status" : "passed",
       "time" : {
         "start" : 1653395970648,
@@ -429,12 +431,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "98d4f662d0e2f07f",
+      "uid" : "b6804d4646f781f0",
       "status" : "passed",
       "time" : {
-        "start" : 1653403239006,
-        "stop" : 1653403240028,
-        "duration" : 1022
+        "start" : 1653403543456,
+        "stop" : 1653403544500,
+        "duration" : 1044
       }
     } ]
   },
@@ -448,12 +450,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6cc06dc2d4d2edd4",
+      "uid" : "8d1b4e3a7f6355b1",
       "status" : "passed",
       "time" : {
-        "start" : 1653403255155,
-        "stop" : 1653403259747,
-        "duration" : 4592
+        "start" : 1653403560798,
+        "stop" : 1653403565806,
+        "duration" : 5008
       }
     } ]
   }
