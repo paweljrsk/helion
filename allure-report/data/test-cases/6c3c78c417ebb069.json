@@ -1,0 +1,120 @@
+{
+  "uid" : "6c3c78c417ebb069",
+  "name" : "Should verify correctly title and number of books",
+  "fullName" : "Searchbar.Should verify correctly title and number of books",
+  "historyId" : "b7d78bf6ca8389d34d8eede0f9c26aff",
+  "time" : {
+    "start" : 1653395952837,
+    "stop" : 1653395953742,
+    "duration" : 905
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramowani\\\"\"",
+  "statusTrace" : "Error: expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramowani\\\"\"\n                    at /home/pj/Documents/Automation-Helion/test/specs/e2e/search-bar.spec.ts:37:29\n                    at step (/home/pj/Documents/Automation-Helion/test/specs/e2e/search-bar.spec.ts:33:23)\n                    at Object.next (/home/pj/Documents/Automation-Helion/test/specs/e2e/search-bar.spec.ts:14:53)\n                    at fulfilled (/home/pj/Documents/Automation-Helion/test/specs/e2e/search-bar.spec.ts:5:58)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 4,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramowani\\\"\"",
+    "statusTrace" : "Error: expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramowani\\\"\"\n                    at /home/pj/Documents/Automation-Helion/test/specs/e2e/search-bar.spec.ts:37:29\n                    at step (/home/pj/Documents/Automation-Helion/test/specs/e2e/search-bar.spec.ts:33:23)\n                    at Object.next (/home/pj/Documents/Automation-Helion/test/specs/e2e/search-bar.spec.ts:14:53)\n                    at fulfilled (/home/pj/Documents/Automation-Helion/test/specs/e2e/search-bar.spec.ts:5:58)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "871c1da4619fee11",
+      "name" : "Screenshot",
+      "source" : "871c1da4619fee11.png",
+      "type" : "image/png",
+      "size" : 1464934
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testClass",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify correctly title and number of books"
+  }, {
+    "name" : "package",
+    "value" : "Searchbar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e86e8833d00b3c51",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramowan\\\"\"",
+      "time" : {
+        "start" : 1653395435015,
+        "stop" : 1653395435883,
+        "duration" : 868
+      }
+    }, {
+      "uid" : "29837ac790b57557",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653394444263,
+        "stop" : 1653394444381,
+        "duration" : 118
+      }
+    }, {
+      "uid" : "ba1ea25fa1fb5a39",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramowan\\\"\"",
+      "time" : {
+        "start" : 1652971445786,
+        "stop" : 1652971446034,
+        "duration" : 248
+      }
+    }, {
+      "uid" : "c6695c45a5e1346f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652971343821,
+        "stop" : 1652971343909,
+        "duration" : 88
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "6c3c78c417ebb069.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
