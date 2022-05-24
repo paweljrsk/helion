@@ -1,0 +1,94 @@
+{
+  "uid" : "e988efcef9c0ff77",
+  "name" : "Should click search icon and verify url",
+  "fullName" : "Searchbar.Should click search icon and verify url",
+  "historyId" : "a6bb523a603486359f7b2a4d25207abb",
+  "time" : {
+    "start" : 1653395936359,
+    "stop" : 1653395938283,
+    "duration" : 1924
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 4,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testClass",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click search icon and verify url"
+  }, {
+    "name" : "package",
+    "value" : "Searchbar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "21759932888c1d80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653395417607,
+        "stop" : 1653395420649,
+        "duration" : 3042
+      }
+    }, {
+      "uid" : "5c7e1a39ad4c34bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653394437794,
+        "stop" : 1653394439333,
+        "duration" : 1539
+      }
+    }, {
+      "uid" : "78ce4dd9eefbbd31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652971429268,
+        "stop" : 1652971431148,
+        "duration" : 1880
+      }
+    }, {
+      "uid" : "ba412c3884c9de1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652971335997,
+        "stop" : 1652971338016,
+        "duration" : 2019
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e988efcef9c0ff77.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

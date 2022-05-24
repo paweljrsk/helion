@@ -7,7 +7,7 @@
       "name" : "Expect window to have url\n                \n                Expected: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowania\"\n                Received: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowani\"",
       "children" : [ {
         "name" : "Should show all books and...",
-        "uid" : "75389f650fbff0f5",
+        "uid" : "631ae4633ecdb2c8",
         "parentUid" : "e0bc0256971aa9dee705009fa7e1d93d",
         "status" : "failed",
         "time" : {
@@ -28,7 +28,7 @@
       "name" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramowani\\\"\"",
       "children" : [ {
         "name" : "Should verify correctly title and number of books",
-        "uid" : "6c3c78c417ebb069",
+        "uid" : "d510d18ec502fbbe",
         "parentUid" : "ed18a82a5bb284c171d846d6e356a296",
         "status" : "failed",
         "time" : {

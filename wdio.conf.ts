@@ -99,7 +99,11 @@ export const config: Options.Testrunner = {
         browserName: 'chrome',
         "goog:chromeOptions": {
             args: ['--window-size=1920,1080','--no-sandbox', '--disable-gpu', '--disable-dev-shm-usage']
-        },
+        // browserName: 'firefox',
+        // "moz:firefoxOptions": {
+        //     args: ['--disable-gpu', '--window-size=1280,800']
+            },
+
         acceptInsecureCerts: true
         // If outputDir is provided WebdriverIO can capture driver session logs
         // it is possible to configure which logTypes to include/exclude.
@@ -114,6 +118,7 @@ export const config: Options.Testrunner = {
     //
     // Level of logging verbosity: trace | debug | info | warn | error | silent
     logLevel: 'error',
+    automationProtocol: 'devtools',
     //
     // Set specific log levels per logger
     // loggers:
@@ -157,7 +162,7 @@ export const config: Options.Testrunner = {
         logFileName: 'wdio-chromedriver.log', // default
         outputDir: 'driver-logs', // overwrites the config.outputDir
         args: ['--silent']
-        }]
+        }], 
     ],
     // services: ['selenium-standalone'],
     
@@ -264,9 +269,9 @@ export const config: Options.Testrunner = {
     /**
      * Function to be executed before a test (in Mocha/Jasmine) starts.
      */
-    beforeTest: function (test, context) {
-        browser.maximizeWindow();
-    },
+    // beforeTest: function (test, context) {
+    //     browser.maximizeWindow();
+    // },
     /**
      * Hook that gets executed _before_ a hook within the suite starts (e.g. runs before calling
      * beforeEach in Mocha)
