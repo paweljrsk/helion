@@ -289,11 +289,12 @@ export const config: Options.Testrunner = {
      * @param {Boolean} result.passed    true if test has passed, otherwise false
      * @param {Object}  result.retries   informations to spec related retries, e.g. `{ attempts: 0, limit: 0 }`
      */
-    afterTest: function (step, scenario, { error, duration, passed }, context) {
-        if (error) {
-          browser.takeScreenshot();
-        }
-      },
+
+    // afterTest: function (step, scenario, { error, duration, passed }, context) {
+    //     if (error) {
+    //       browser.takeScreenshot();
+    //     }
+    //   },
 
     /**
      * Hook that gets executed after the suite has ended
