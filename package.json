@@ -28,7 +28,7 @@
     "@wdio/mocha-framework": "^7.19.7",
     "@wdio/selenium-standalone-service": "^7.7.4",
     "@wdio/spec-reporter": "^7.19.7",
-    "chromedriver": "^101.0.0",
+    "chromedriver": "^102.0.5005.61",
     "ts-node": "^10.7.0",
     "typescript": "^4.6.4",
     "wdio-chromedriver-service": "^7.3.2"

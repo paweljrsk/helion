@@ -1,0 +1,60 @@
+{
+  "uid" : "5032e6bad1f927be",
+  "name" : "Should click on first book",
+  "fullName" : "E2E - Products.Should click on first book",
+  "historyId" : "9c5fa589b386eb80bc71e7acf50d91b3",
+  "time" : {
+    "start" : 1652971456243,
+    "stop" : 1652971464205,
+    "duration" : 7962
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "E2E - Products"
+  }, {
+    "name" : "testClass",
+    "value" : "E2E - Products"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click on first book"
+  }, {
+    "name" : "package",
+    "value" : "E2E - Products"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5032e6bad1f927be.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

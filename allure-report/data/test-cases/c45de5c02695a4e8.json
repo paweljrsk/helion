@@ -1,0 +1,70 @@
+{
+  "uid" : "c45de5c02695a4e8",
+  "name" : "Should click search icon and verify url",
+  "fullName" : "Searchbar.Should click search icon and verify url",
+  "historyId" : "6b3bdf2d89597ea827d8f3e25684efd8",
+  "time" : {
+    "start" : 1653403528231,
+    "stop" : 1653403530170,
+    "duration" : 1939
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testClass",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click search icon and verify url"
+  }, {
+    "name" : "package",
+    "value" : "Searchbar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d06c710d02cb1aec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653403232351,
+        "stop" : 1653403234365,
+        "duration" : 2014
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c45de5c02695a4e8.json",
+  "parameterValues" : [ "Chrome-101.0.4951.64" ]
+}

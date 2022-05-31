@@ -1,0 +1,70 @@
+{
+  "uid" : "f261d2febaed6b75",
+  "name" : "Should type incorrect book name and verify alert",
+  "fullName" : "Searchbar.Should type incorrect book name and verify alert",
+  "historyId" : "a4de81a00aa6db6a7052866ee7b946a6",
+  "time" : {
+    "start" : 1653403544501,
+    "stop" : 1653403546051,
+    "duration" : 1550
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testClass",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should type incorrect book name and verify alert"
+  }, {
+    "name" : "package",
+    "value" : "Searchbar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "71c19e516b7179e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653403240028,
+        "stop" : 1653403241418,
+        "duration" : 1390
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f261d2febaed6b75.json",
+  "parameterValues" : [ "Chrome-101.0.4951.64" ]
+}

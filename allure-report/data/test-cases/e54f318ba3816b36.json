@@ -1,0 +1,70 @@
+{
+  "uid" : "e54f318ba3816b36",
+  "name" : "Should click checkbox and delete products",
+  "fullName" : "E2E - Products.Should click checkbox and delete products",
+  "historyId" : "8564d42b1a36bdbf1f7971a85c8dcaef",
+  "time" : {
+    "start" : 1653403560798,
+    "stop" : 1653403565806,
+    "duration" : 5008
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "E2E - Products"
+  }, {
+    "name" : "testClass",
+    "value" : "E2E - Products"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should click checkbox and delete products"
+  }, {
+    "name" : "package",
+    "value" : "E2E - Products"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c31c6bc4e1693247",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653403255155,
+        "stop" : 1653403259747,
+        "duration" : 4592
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e54f318ba3816b36.json",
+  "parameterValues" : [ "Chrome-101.0.4951.64" ]
+}

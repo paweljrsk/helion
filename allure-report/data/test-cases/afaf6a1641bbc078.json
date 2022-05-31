@@ -1,0 +1,70 @@
+{
+  "uid" : "afaf6a1641bbc078",
+  "name" : "Should type input search and click search icon",
+  "fullName" : "E2E - Products.Should type input search and click search icon",
+  "historyId" : "b823fe13fda3b8d5188ab038ed63ea46",
+  "time" : {
+    "start" : 1653403549978,
+    "stop" : 1653403554370,
+    "duration" : 4392
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "E2E - Products"
+  }, {
+    "name" : "testClass",
+    "value" : "E2E - Products"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should type input search and click search icon"
+  }, {
+    "name" : "package",
+    "value" : "E2E - Products"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "82bb558fe0bd450d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653403245193,
+        "stop" : 1653403249271,
+        "duration" : 4078
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "afaf6a1641bbc078.json",
+  "parameterValues" : [ "Chrome-101.0.4951.64" ]
+}

@@ -1,0 +1,60 @@
+{
+  "uid" : "b5ee1fb422a79a5d",
+  "name" : "Should verify correctly title and number of books",
+  "fullName" : "Searchbar.Should verify correctly title and number of books",
+  "historyId" : "b7d78bf6ca8389d34d8eede0f9c26aff",
+  "time" : {
+    "start" : 1653989997393,
+    "stop" : 1653989997492,
+    "duration" : 99
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testClass",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify correctly title and number of books"
+  }, {
+    "name" : "package",
+    "value" : "Searchbar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5ee1fb422a79a5d.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
