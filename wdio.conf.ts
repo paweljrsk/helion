@@ -98,7 +98,8 @@ export const config: Options.Testrunner = {
         //
         browserName: 'chrome',
         "goog:chromeOptions": {
-            args: ['--window-size=1920,1080','--no-sandbox', '--disable-gpu', '--disable-dev-shm-usage']
+            args: ['--window-size=1920,1080','--no-sandbox', '--disable-gpu', '--disable-dev-shm-usage'],
+            
         // browserName: 'firefox',
         // "moz:firefoxOptions": {
         //     args: ['--disable-gpu', '--window-size=1280,800']

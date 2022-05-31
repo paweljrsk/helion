@@ -5,7 +5,7 @@
     "name" : "Searchbar",
     "children" : [ {
       "name" : "Should open helion home page and verify url and visible searchbar",
-      "uid" : "eebc2704f927368a",
+      "uid" : "a3cbc07c3ae30a43",
       "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
       "status" : "passed",
       "time" : {
@@ -22,7 +22,7 @@
       "parameters" : [ "Chrome-101.0.4951.64" ]
     }, {
       "name" : "Should click search icon and verify url",
-      "uid" : "c45de5c02695a4e8",
+      "uid" : "f8988b69b4e7b910",
       "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
       "status" : "passed",
       "time" : {
@@ -39,7 +39,7 @@
       "parameters" : [ "Chrome-101.0.4951.64" ]
     }, {
       "name" : "Should type search value and verify popup visibled",
-      "uid" : "7a6662ae66aaef6",
+      "uid" : "c59ad3ad7c647c44",
       "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
       "status" : "passed",
       "time" : {
@@ -56,7 +56,7 @@
       "parameters" : [ "Chrome-101.0.4951.64" ]
     }, {
       "name" : "Should show all books and...",
-      "uid" : "f812203760473b71",
+      "uid" : "4bbf8399a63163bb",
       "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
       "status" : "failed",
       "time" : {
@@ -73,7 +73,7 @@
       "parameters" : [ "Chrome-101.0.4951.64" ]
     }, {
       "name" : "Should verify correctly title and number of books",
-      "uid" : "5d9c58deb987aff8",
+      "uid" : "81aeebebb0306b58",
       "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
       "status" : "failed",
       "time" : {
@@ -90,7 +90,7 @@
       "parameters" : [ "Chrome-101.0.4951.64" ]
     }, {
       "name" : "Should clear input value",
-      "uid" : "90db052ccb91c68b",
+      "uid" : "bdd5237d1e947a77",
       "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
       "status" : "passed",
       "time" : {
@@ -107,7 +107,7 @@
       "parameters" : [ "Chrome-101.0.4951.64" ]
     }, {
       "name" : "Should type incorrect book name and verify alert",
-      "uid" : "f261d2febaed6b75",
+      "uid" : "f3ab29d2f58763e9",
       "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
       "status" : "passed",
       "time" : {
@@ -124,7 +124,7 @@
       "parameters" : [ "Chrome-101.0.4951.64" ]
     }, {
       "name" : "Should clear input and verify is it null",
-      "uid" : "9a3a9f527670a4a7",
+      "uid" : "61f3888b937965c4",
       "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
       "status" : "passed",
       "time" : {
@@ -141,7 +141,7 @@
       "parameters" : [ "Chrome-101.0.4951.64" ]
     }, {
       "name" : "Should open helion home page and verify url and visible searchbar",
-      "uid" : "b03f356064571f93",
+      "uid" : "a19050eb618c324e",
       "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
       "status" : "passed",
       "time" : {
@@ -158,7 +158,7 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "Should click search icon and verify url",
-      "uid" : "b2cbfd7bcddc6a67",
+      "uid" : "21a52eec602ae131",
       "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
       "status" : "passed",
       "time" : {
@@ -175,7 +175,7 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "Should type search value and verify popup visibled",
-      "uid" : "121a726315b86fd7",
+      "uid" : "a8f792721f1c83fd",
       "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
       "status" : "passed",
       "time" : {
@@ -192,7 +192,7 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "Should show all books and...",
-      "uid" : "79dc550db37ea2f7",
+      "uid" : "eb7f8372bf08de0f",
       "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
       "status" : "failed",
       "time" : {
@@ -209,7 +209,7 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "Should verify correctly title and number of books",
-      "uid" : "33325f8a4490a39f",
+      "uid" : "8b25fa055ae423fb",
       "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
       "status" : "failed",
       "time" : {
@@ -226,7 +226,7 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "Should clear input value",
-      "uid" : "e74968b6219b41a8",
+      "uid" : "45e7e00eac35e250",
       "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
       "status" : "passed",
       "time" : {
@@ -243,7 +243,7 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "Should type incorrect book name and verify alert",
-      "uid" : "677e651047bfd741",
+      "uid" : "88a292072fe79e12",
       "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
       "status" : "passed",
       "time" : {
@@ -260,7 +260,7 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "Should clear input and verify is it null",
-      "uid" : "33ca45611b4ff0f9",
+      "uid" : "e317518e7e57ffc5",
       "parentUid" : "28df5e45636167d920fc65ffdf0b92c1",
       "status" : "passed",
       "time" : {
@@ -281,7 +281,7 @@
     "name" : "E2E - Products",
     "children" : [ {
       "name" : "Should type input search and click search icon",
-      "uid" : "afaf6a1641bbc078",
+      "uid" : "6bc4f53afe86ef2a",
       "parentUid" : "24db069e698639c352f051e2b9fb91e4",
       "status" : "passed",
       "time" : {
@@ -298,7 +298,7 @@
       "parameters" : [ "Chrome-101.0.4951.64" ]
     }, {
       "name" : "Should click on first book",
-      "uid" : "7978ea7bbf0a6301",
+      "uid" : "2e72373f39d400b2",
       "parentUid" : "24db069e698639c352f051e2b9fb91e4",
       "status" : "passed",
       "time" : {
@@ -315,7 +315,7 @@
       "parameters" : [ "Chrome-101.0.4951.64" ]
     }, {
       "name" : "Should click on add to cart button",
-      "uid" : "bcaef667d1b75dc6",
+      "uid" : "5a57c9526e2355a3",
       "parentUid" : "24db069e698639c352f051e2b9fb91e4",
       "status" : "passed",
       "time" : {
@@ -332,7 +332,7 @@
       "parameters" : [ "Chrome-101.0.4951.64" ]
     }, {
       "name" : "Should click checkbox and delete products",
-      "uid" : "e54f318ba3816b36",
+      "uid" : "4cabb0601a201682",
       "parentUid" : "24db069e698639c352f051e2b9fb91e4",
       "status" : "passed",
       "time" : {
@@ -349,7 +349,7 @@
       "parameters" : [ "Chrome-101.0.4951.64" ]
     }, {
       "name" : "Should type input search and click search icon",
-      "uid" : "6f5030db103c8785",
+      "uid" : "9215a44ba19c175f",
       "parentUid" : "24db069e698639c352f051e2b9fb91e4",
       "status" : "passed",
       "time" : {
@@ -366,7 +366,7 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "Should click on first book",
-      "uid" : "52c5718545b7a9d2",
+      "uid" : "ada2ac34f59a3e8b",
       "parentUid" : "24db069e698639c352f051e2b9fb91e4",
       "status" : "passed",
       "time" : {
@@ -383,7 +383,7 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "Should click on add to cart button",
-      "uid" : "3549be157914fb4c",
+      "uid" : "1d21aca24a3a04f6",
       "parentUid" : "24db069e698639c352f051e2b9fb91e4",
       "status" : "passed",
       "time" : {
@@ -400,7 +400,7 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "Should click checkbox and delete products",
-      "uid" : "8280ca985f36396c",
+      "uid" : "87e9dc9b2e658095",
       "parentUid" : "24db069e698639c352f051e2b9fb91e4",
       "status" : "passed",
       "time" : {

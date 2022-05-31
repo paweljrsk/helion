@@ -1,0 +1,60 @@
+{
+  "uid" : "93d1ca1eead1ece6",
+  "name" : "Should type incorrect book name and verify alert",
+  "fullName" : "Searchbar.Should type incorrect book name and verify alert",
+  "historyId" : "2a34ccffc5d95828c9d7b27db287a450",
+  "time" : {
+    "start" : 1653989998542,
+    "stop" : 1653989999804,
+    "duration" : 1262
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testClass",
+    "value" : "Searchbar"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should type incorrect book name and verify alert"
+  }, {
+    "name" : "package",
+    "value" : "Searchbar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "93d1ca1eead1ece6.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

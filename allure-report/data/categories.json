@@ -7,7 +7,7 @@
       "name" : "Expect window to have url\n                \n                Expected: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowania\"\n                Received: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowa\"",
       "children" : [ {
         "name" : "Should show all books and...",
-        "uid" : "f812203760473b71",
+        "uid" : "4bbf8399a63163bb",
         "parentUid" : "9c40081f301d690b1ca7656b89ce2fae",
         "status" : "failed",
         "time" : {
@@ -28,7 +28,7 @@
       "name" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramowa\\\"\"",
       "children" : [ {
         "name" : "Should verify correctly title and number of books",
-        "uid" : "5d9c58deb987aff8",
+        "uid" : "81aeebebb0306b58",
         "parentUid" : "11dae11a351f33c1f31c7db04ef5a9a9",
         "status" : "failed",
         "time" : {
@@ -49,7 +49,7 @@
       "name" : "Expect window to have url\n                \n                Expected: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramowania\"\n                Received: \"https://helion.pl/search?szukaj=Testowanie%2520oprogramow\"",
       "children" : [ {
         "name" : "Should show all books and...",
-        "uid" : "79dc550db37ea2f7",
+        "uid" : "eb7f8372bf08de0f",
         "parentUid" : "857aee3c2a416e33504aa195e57f8ff1",
         "status" : "failed",
         "time" : {
@@ -70,7 +70,7 @@
       "name" : "expect(received).toContain(expected) // indexOf\n                \n                Expected substring: \"Szukasz \\\"Testowanie oprogramowania\\\"\"\n                Received string:    \"Szukasz \\\"Testowanie oprogramow\\\"\"",
       "children" : [ {
         "name" : "Should verify correctly title and number of books",
-        "uid" : "33325f8a4490a39f",
+        "uid" : "8b25fa055ae423fb",
         "parentUid" : "abcbc2205af9ccf5bca23e93191aeee5",
         "status" : "failed",
         "time" : {
